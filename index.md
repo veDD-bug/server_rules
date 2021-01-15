@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Server Rules
 
 You can use the [editor on GitHub](https://github.com/veDD-bug/server_rules/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
